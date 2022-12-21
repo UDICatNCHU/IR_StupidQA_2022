@@ -1,0 +1,1 @@
+# IR_StupidQA_2022
