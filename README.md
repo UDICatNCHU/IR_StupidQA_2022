@@ -43,8 +43,6 @@ print(JsonList[0]['Question'])
 中華民國第14任總統，民主進步黨第16屆黨主席，同時也是台灣歷史上首位女性元首，她是:
 ```
 
-### 建議的起始點 Colab
-https://colab.research.google.com/drive/1cOwJG6d8_cWLoOLMp0z1UB7blZ45yJwb#scrollTo=7Yw1rb6qxDoR 
 
 #### 繳交答案網站使用說明
 - 第一格填入學號，第二格填入你程式跑出的答案
